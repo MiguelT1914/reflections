@@ -1,2 +1,4 @@
 What happens when you initialize a repository? Why do you need to do it?
-you get a brand new "sheet" that allows you to track your code. 
+     you get a brand new "sheet" that allows you to track your code. 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+    staging area allows to add multiple files that may not be in order instead of having to commit all the code. 
