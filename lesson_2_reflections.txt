@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+you get a brand new "sheet" that allows you to track your code. 
